@@ -22,6 +22,7 @@ module.exports = {
             clear_input_value: 'Xóa giá trị',
             clone: 'Nhân bản',
             confirm: 'Xác nhận',
+            export: 'Xuất',
         },
         boolean: {
             true: 'Có',
